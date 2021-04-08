@@ -14,7 +14,7 @@ git clone https://github.com/BDAlfajAhmedJhenida/ROC-X.git
 --
 Commands For All Time:
 --
-cd roc-x
+cd ROC-X
 --
 python main.py .
 --
