@@ -1,19 +1,20 @@
 Commands For First Time:
 
+--
 pkg update -y && pkg upgrade -y
-
+--
 pkg install python -y
-
+--
 pkg install git -y
-
-git clone https://github.com/RootOfCyber/roc-x
-
+--
+git clone https://github.com/BDAlfajAhmedJhenida/ROC-X.git
+--
 Commands For All Time:
-
+--
 cd roc-x
-
+--
 python main.py .
-
+--
 . . . . . .
 
 We Are On :
